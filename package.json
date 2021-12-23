@@ -1,0 +1,12 @@
+{
+  "name": "modernjs-deepdive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sw-develop/modernjs-deepdive.git",
+  "author": "sw-develop <psw00719@naver.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "prettier": "2.5.1"
+  }
+}
